@@ -23,7 +23,7 @@ Welcome to my GitHub Page
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,javascript,html,css,git">
+  <img src="https://skillicons.dev/icons?i=java,git">
 </div>
 
 <br>
